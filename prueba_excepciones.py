@@ -1,4 +1,4 @@
-class coche():
+class coche(): #inicio de objeot o clase
 	def __init__(self):
 		self.largoChasis=250
 		self.anchoChais=120
