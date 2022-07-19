@@ -14,7 +14,7 @@ def f1(x):
     return - 482.901439 + 645.385520*(x) - 349.945506*(x**2) + 99.616569*(x**3) - 15.750822*(x**4) + 1.313687*(x**5) - 0.045210*(x**6)
 def f2(x):
     return 843.836399*(x**0) - 963.109750*(x**1) + 410.965677*(x**2) - 77.342101*(x**3) + 5.416562*(x**4)
-nombre="Data_UTP_P1.csv"
+nombre="Data_UTP_P1.csv" #toma los puntos
 n=dim(nombre)
 
 x=[0 for i in range(n)]
